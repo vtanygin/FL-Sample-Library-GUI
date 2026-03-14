@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SIPUjRcyir0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vivian\\source\\repos\\FL Sample Library GUI\\FL Sample Library GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vivian\\.nuget\\packages\\musictheory\\1.5.3\\musictheory.1.5.3.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio\\2.3.0\\naudio.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio.asio\\2.3.0\\naudio.asio.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio.core\\2.3.0\\naudio.core.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio.extras\\2.3.0\\naudio.extras.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio.midi\\2.3.0\\naudio.midi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio.wasapi\\2.3.0\\naudio.wasapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio.winforms\\2.3.0\\naudio.winforms.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\naudio.winmm\\2.3.0\\naudio.winmm.2.3.0.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\soundtouch.net\\2.3.2\\soundtouch.net.2.3.2.nupkg.sha512",
+    "C:\\Users\\Vivian\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

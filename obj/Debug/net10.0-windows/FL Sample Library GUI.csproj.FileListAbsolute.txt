@@ -1,0 +1,35 @@
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\FL Sample Library GUI.exe
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\FL Sample Library GUI.deps.json
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\FL Sample Library GUI.runtimeconfig.json
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\FL Sample Library GUI.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\FL Sample Library GUI.pdb
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI_MarkupCompile.cache
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI_MarkupCompile.lref
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.g.resources
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.AssemblyInfoInputs.cache
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.AssemblyInfo.cs
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.csproj.CoreCompileInputs.cache
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\refint\FL Sample Library GUI.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.pdb
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.genruntimeconfig.cache
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\ref\FL Sample Library GUI.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\GetSample.baml
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\GetSample.g.cs
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.Asio.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.Core.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.Midi.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.Wasapi.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.WinForms.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.WinMM.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\TagLibSharp.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sample Library GUI.csproj.AssemblyReference.cache
+C:\Users\Vivian\source\repos\FL Sample Library GUI\obj\Debug\net10.0-windows\FL Sampl.08D97B2E.Up2Date
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\MusicTheory.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\NAudio.Extras.dll
+C:\Users\Vivian\source\repos\FL Sample Library GUI\bin\Debug\net10.0-windows\SoundTouch.Net.dll
